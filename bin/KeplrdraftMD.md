@@ -5,6 +5,6 @@ Such actions have been thus far been accomplished by connecting Keplr to an exte
 Adding Keplr support would make the user experience more intuitive and inline with the many other projects utilizing Keplr wallet.<br><br>
 Summary If passed this proposal would disperse 1,135,015 GRAV from the Gravity Bridge Community Pool to a multi-sig account, which in turn will disperse the funds to the Keplr team.<br><br>
 The members of the multi-sig wallet will be:<br><br>
-Zaki Manian, Sommelier/Iqlusion<br><br>
-Ethan Kravitz, AGE Fund<br><br>
+Zaki Manian, Sommelier/Iqlusion<br>
+Ethan Kravitz, AGE Fund<br>
 Žygimantas Magelinskas, Figment
