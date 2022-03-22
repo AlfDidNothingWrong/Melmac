@@ -1,6 +1,6 @@
 ### Keplr/GRAV integration
 
-Currently Keplr provides only Alpha support for GRAV tokens. As a result, Keplr is presently missing many features (e.g. staking, transfer, IBC transfer, and proper display of token balance and IBC token inventory). \n\n
+Currently Keplr provides only Alpha support for GRAV tokens. As a result, Keplr is missing many common functionalities (e.g. staking, transfer, IBC transfer, and proper display of token balance and IBC token inventory). \n\n
 
 Such actions have been thus far been accomplished by connecting Keplr to an external site (such as the indispensable https://skynetexplorers.com/) or via the CLI. \n\n
 The cost for establishing full Keplr support (for both their mobile apps and browser wallet extensions) is 1,135,015 GRAV. \n\n
